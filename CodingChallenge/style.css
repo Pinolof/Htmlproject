@@ -1,0 +1,46 @@
+body{
+  background-image: url(image/background.jpg);
+background-size: cover;
+}
+
+.pannello{
+  background: rgba(0, 0, 0, 0.4);
+  padding: 4%;
+  border-radius: 10px;
+  margin: auto;
+  width: 58vw;
+  transform: scale(0.92);
+}
+
+.logo{width: 30%;}
+
+.titolo{
+  color:#00dd00 ;
+  font-size: 230%;
+}
+
+header,nav{ text-align: center;}
+
+nav{
+  background-color:#00dd00;
+   padding:1%;
+  }
+
+main{color: white;}
+
+.barra{
+  background-color: orange;
+  width: 37%;
+}
+.barra2{
+  background-color:#00dd00 ;
+  width: 60%;
+}
+.barra3{
+  background-color:red ;
+  width: 18%;
+}
+.barra, .barra2, .barra3{
+  padding: 1.2%;
+border-radius: 5px;
+}
